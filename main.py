@@ -7,3 +7,6 @@ def greetWhite():
     print("i am white")
 def greetBlack():
     print("i am black")
+def main():
+    greetWhite()
+    greetBlack()
