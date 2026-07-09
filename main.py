@@ -3,3 +3,6 @@ def say_hello():
 
 if __name__ == "__main__":
     say_hello()
+def greetWhite():
+    print("i am white")
+    
